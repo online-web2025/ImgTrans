@@ -13,6 +13,11 @@
   jpg,png,bmp,webp -> webp<br>
   jpg,png,bmp,webp -> jpg,png,bmp,webp<br>
   ## 快速开始
+  ### 概要
+  #### 1.克隆代码库
+  #### 2.创建intput与output文件夹
+  #### 3.运行代码
+
   1.克隆代码库
   ```
     git clone https://github.com/online-web2025/ImgTrans.git
