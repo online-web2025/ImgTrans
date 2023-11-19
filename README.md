@@ -32,7 +32,10 @@
     #在cmd窗口输入下面代码
     python ImgTrans.py
   ```
-  ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/77f4b0a1-568a-423e-9122-b4fdaf713661)
+  ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/77f4b0a1-568a-423e-9122-b4fdaf713661)<br>
+  next step<br>
+  ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/c7516fb3-c4fa-4b3c-bcce-1eb9ead6129c)
+
 
   
   
