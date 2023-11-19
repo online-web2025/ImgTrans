@@ -18,6 +18,7 @@
     git clone https://github.com/online-web2025/ImgTrans.git
   ```
   2.创建intput与output文件夹
+  将需要转化的图片放入input文件夹中<br>
   ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/b8dcd981-db5a-4aa1-9d08-115bb46b1846)
 
   3.运行代码
@@ -34,6 +35,7 @@
   ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/77f4b0a1-568a-423e-9122-b4fdaf713661)<br>
   next step:<br>
   ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/c7516fb3-c4fa-4b3c-bcce-1eb9ead6129c)
+  转化好的图片在output文件夹中
 
 
   
