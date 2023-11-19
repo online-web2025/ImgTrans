@@ -18,6 +18,8 @@
   #### 2.创建intput与output文件夹
   #### 3.运行代码
 
+  ##### just let me start：
+
   1.克隆代码库
   ```
     git clone https://github.com/online-web2025/ImgTrans.git
