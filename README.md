@@ -21,14 +21,16 @@
   2.创建intput与output文件夹
   ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/7d7ff454-a9ad-43f5-b3ff-77ef589d4594)
   3.运行代码
-  运行cmd，然后输入python ImgTrans.py，然后按照提升完成操作
+  运行cmd，然后输入python ImgTrans.py，然后按照提示完成操作
+  
   ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/2149b185-2f5e-4887-bfa8-575e88717cb8)
-![image](https://github.com/online-web2025/ImgTrans/assets/138352290/625abb8f-e643-4152-9db2-519db1f04ebe)
+
 
   ```
+    #在cmd窗口输入下面代码
     python ImgTrans.py
-
   ```
+  ![image](https://github.com/online-web2025/ImgTrans/assets/138352290/625abb8f-e643-4152-9db2-519db1f04ebe)
   
   
 
