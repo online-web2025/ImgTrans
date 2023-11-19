@@ -1,5 +1,18 @@
 ## 代码类型：
   python<br>
+## 代码必要库
+  此代码基于PIL与os库实现，因此运行此代码前务必提前安装。也可在cmd窗口运行下列命令来进行安装
+```python
+  pip install PIL
+  pip install os
+```
+如果使用的是 Python 2.x 版本，则需要使用以下命令：<br>
+```Python 2.x
+  pip2 install PIL
+  pip2 install os
+```
+
+
 ## 代码说明：
   1.经检验此代码可以把任意格式的图片，转化为指定图片类型<br>
   2.此代码可以在图片格式混合的情况也能转化为指定的图片类型<br>
